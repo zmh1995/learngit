@@ -1,8 +1,3 @@
-fsdfdsfdsfdsfdsfdsfd
-fsdfdsfsdfsdfsdf
-fsdfdsfsdfdsfzz
-sdadafnnnbnmbnbnmbnbmnbn
-jbjjb
-fsfs
-sfafasasa123
-abc
+use git add branch
+merge branch
+use --no-ff -m 
